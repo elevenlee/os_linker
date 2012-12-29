@@ -1,0 +1,2 @@
+symbol k defined but not used
+symbol xy in used list but not actually used

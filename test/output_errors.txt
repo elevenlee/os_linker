@@ -1,0 +1,7 @@
+error: xy multiply defined
+
+error: k used but not defined
+
+warning: j defined but not used
+
+error: address 4 exceeds the module of size 3
